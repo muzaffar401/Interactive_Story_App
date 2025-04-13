@@ -1,6 +1,6 @@
 # ✨ Enchanted Story Weaver
 
-![Project Banner](https://i.imgur.com/Ji5qF0a.png)
+![image](https://github.com/user-attachments/assets/9e41e99d-0c00-4726-95ae-9ff091046e0c)
 
 An interactive story generator that crafts magical tales based on your inputs, with beautiful visuals and download options.
 
@@ -39,8 +39,8 @@ Tip: The diagram above is interactive in supported Markdown viewers! Click eleme
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/enchanted-story-weaver.git
-cd enchanted-story-weaver
+git clone https://github.com/muzaffar401/Interactive_Story_App
+cd Interactive_Story_App
 ```
 
 Install dependencies:
@@ -118,8 +118,8 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## ✉️ Contact
 
-Your Name - your.email@example.com  
-Project Link: https://github.com/yourusername/enchanted-story-weaver
+Your Name - ma9400667@gmail.com
+Project Link: https://github.com/muzaffar401/Interactive_Story_App
 
 ## 📊 Diagram Explanation
 
